@@ -1,0 +1,58 @@
+
+ Options Set are : 
+
+   Command Line               : xcrg -report_format html -dir D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb -report_dir D:/UVMProjectfinal/vj_uvm/coverage
+   Report Format              : html
+   Log File                   : xcrg.log
+   Input Dir                  : D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb
+   Report Directory           : D:/UVMProjectfinal/vj_uvm/coverage
+
+
+                  Functional Coverage Report 
+
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_ctrl\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_full\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_mode_a\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_mode_b\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_random_s1\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_random_s2\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_random_s3\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_random_s4\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_random_s5\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_regs\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_reset\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_rotation\xsim.covinfo
+  1	D:/UVMProjectfinal/vj_uvm/vivado_project/vj_uvm.sim/sim_1/behav/xsim/xsim.covdb\covdb_vj_test_sweep_edge\xsim.covinfo
+
+
+ Creating Output Directory            : xsim.covdb/xcrg_mdb
+
+ Saving the Coverage Info at          : xsim.covdb/xcrg_mdb/xsim.covinfo
+
+ XILINX VIVADO dervied is              : C:/Xilinx/Vivado/2022.2
+
+ Setting the report dir name as       : D:/UVMProjectfinal/vj_uvm/coverage
+
+ INFO : Destination directory D:/UVMProjectfinal/vj_uvm/coverage/.css is being overwritten
+ INFO : Destination directory D:/UVMProjectfinal/vj_uvm/coverage/.js is being overwritten
+ INFO : Destination directory D:/UVMProjectfinal/vj_uvm/coverage/.reportStyles is being overwritten
+ Creating dashboard.html 
+
+ Creating groups.html 
+
+ Creating grp0.html 
+
+ Creating grp1.html 
+
+ Creating grp2.html 
+
+ Creating grp3.html 
+
+ Creating grp4.html 
+
+ Creating grp5.html 
+
+ Creating grp6.html 
+
+ Creating grp7.html 
+

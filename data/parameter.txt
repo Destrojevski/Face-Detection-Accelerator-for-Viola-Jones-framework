@@ -1,0 +1,4 @@
+1.2
+1
+
+// Prva linija je scaleFactor (float), druga linija je shiftStep (int)
