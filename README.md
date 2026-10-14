@@ -2,6 +2,7 @@
 A hardware accelerator of classification part of Viola-Jones face detection algorithm implemented on the Zybo Z7-10 FPGA. This project includes system modeling in SystemC, RTL design in VHDL, functional verification with UVM, and Linux driver development.
 
 Each one of the aforementioned stages is independently executable and verifiable as of now. The folders are listed as follows:
+
 data: input data for the classifier.
 docs: documentation on the classifier, one document for each stage of development of the device.
 driver_app: driver and application for executing the classification on the Zybo Z7-10 FPGA board.
